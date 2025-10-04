@@ -1,0 +1,5 @@
+*.csv
+
+fine-tuned-sbert-model/
+results/
+models/
